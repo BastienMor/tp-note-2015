@@ -7,8 +7,8 @@ Bodineau
 
 - git remote -v
 
-- 
+- -
 
--
+- -
 
 - git log -2
