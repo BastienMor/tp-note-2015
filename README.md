@@ -2,3 +2,13 @@
 
 Bastien
 Bodineau
+
+- git log --stat
+
+- git remote -v
+
+- 
+
+-
+
+- git log -2
